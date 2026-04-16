@@ -16,16 +16,17 @@ More Info about me please refer to [Personal Website](https://withoutbug8.github
 
 ## Tech
 
-```txt id="p8k2dn"
-Languages:   Java · Python · C/C++ · SQL · JavaScript · Bash
-Backend:     Spring Boot · Flask
-ML/AI:       PyTorch
-Database:    PostgreSQL · MySQL
-Cloud-native: AWS · Terraform · Docker
-Systems:     Concurrency · Multithreading
-Tools:       Git · Linux
+```bash id="v8q2kp"
+╔═══════════════ Tech Stack ═══════════════╗
+║ Languages  │ Java · Python · C/C++ · SQL · JS · Bash
+║ Backend    │ Spring Boot · Flask
+║ ML/AI      │ PyTorch
+║ Database   │ PostgreSQL · MySQL
+║ Cloud      │ AWS · Terraform · Docker
+║ Systems    │ OS · Multithreading · Synchronization
+║ Tools      │ Git · Linux
+╚══════════════════════════════════════════╝
 ```
-
 
 ---
 
