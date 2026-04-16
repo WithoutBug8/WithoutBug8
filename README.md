@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @WithoutBug8
-- 👀 I’m majored in Computer science. 
-- 🌱 I’m currently learning Language Python and Java
-- 📫 How to reach me Please contaract me with Email irving.kuuo@gmail.com
-- 💞️ Feel free to contact me via email for academic or research collaborations.
-- 🏢 I'm currently seeking potential PhD opportunities starting in 2026. 
+# Hi 👋 I'm Bowen
+
+More Info about me please refer to [Personal Website](https://withoutbug8.github.io/)
 
 
-<!---
-WithoutBug8/WithoutBug8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Interests
+
+* Deep Learning & Large Language Models (LLMs)
+* AI for Assessment & Measurement
+* Information Retrieval & RAG
+* Scalable Systems & Backend Engineering
+
+---
+
+## Tech
+
+```txt id="p8k2dn"
+Languages:   Java · Python · C/C++ · SQL · JavaScript · Bash
+Backend:     Spring Boot · Flask
+ML/AI:       PyTorch
+Database:    PostgreSQL · MySQL
+Cloud-native: AWS · Terraform · Docker
+Systems:     Concurrency · Multithreading
+Tools:       Git · Linux
+```
+
+
+---
+
+## Currently Exploring
+
+* LLM-based assessment & automated scoring
+* Retrieval-Augmented Generation (RAG)
+* Deep Learning basic theory
+
+---
+
+
